@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<m:menu restaurante="Tasca ESTG" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+      xmlns:m="http://www.aTascadaESTG.pt/Menu"
+      xsi:schemaLocation="http://www.aTascadaESTG.pt/Menu MenuTypes.xsd" xmlns:p="http://www.aTascadaESTG.pt/Pizza"> 
+    
+    <p:pizza codigo="VEP">
+            <name>sasd</name>
+            <ingredients>
+                <ingredient>
+                    <name>Alfsace</name>
+                    <category>Vegetal</category>
+                    <unit>grams</unit>
+                    <calories>23</calories>
+                </ingredient>
+            </ingredients> 
+            <price>
+                <small>3</small>
+                <medium>6</medium>
+                <big>9</big>
+            </price> 
+    </p:pizza>
+</m:menu>
