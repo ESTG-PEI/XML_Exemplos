@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<receipts>
+   <receipt>
+      <id>1</id>
+      <products>
+         <product>20</product>
+         <product>50</product>
+      </products>
+   </receipt>
+   <receipt>
+      <id>2</id>
+      <products>
+         <product>50</product>
+      </products>
+   </receipt>
+</receipts>
