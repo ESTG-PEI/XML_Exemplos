@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <menu restaurante="Tasca ESTG" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
       xmlns="http://www.aTascadaESTG.pt/Menu"
-      xsi:schemaLocation="http://www.aTascadaESTG.pt/Menu Exemplo1PMenu.xsd"  xmlns:i="http://www.aTascadaESTG.pt/Ingredient" xmlns:p="http://www.aTascadaESTG.pt/Pizza">
+      xsi:schemaLocation="http://www.aTascadaESTG.pt/Menu MenuTypes.xsd"  xmlns:i="http://www.aTascadaESTG.pt/Ingredient" xmlns:p="http://www.aTascadaESTG.pt/Pizza">
     
     <pizza codigo="VEP">
             <p:name>sasd</p:name>
